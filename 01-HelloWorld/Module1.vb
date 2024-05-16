@@ -10,8 +10,6 @@
 
         'podemos omitir "Console.ReadKey(True)" si iniciamos el programa sin depurar 
 
-        'provando
-
     End Sub
 
 End Module
